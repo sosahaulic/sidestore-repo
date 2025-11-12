@@ -3,29 +3,16 @@
 "identifier": "com.sosahaulic.eeveespotifyrepo",
 "apps": [
 {
-"name": "EeveeSpotify",
-"bundleIdentifier": "com.sosahaulic.eeveespotify",
-"developerName": "Eevee Modded",
-"version": "8.6.42",
-"versionDate": "2025-11-11",
-"iconURL": "https://raw.githubusercontent.com/sosahaulic/sidestore-repo/main/Spotifymiku.jpg",
-"downloadURL": "https://github.com/sosahaulic/sidestore-repo/releases/download/v1.1/EeveeSpotify-patched.ipa",
-"localizedDescription": "A modded Spotify build.",
-"category": "Music",
-"size": 56122880
-},
-{
 "name": "Spotvee",
-"bundleIdentifier": "com.sosahaulic.spotvee",
+"bundleIdentifier": "com.spotify.client",
 "developerName": "Eevee Modded",
 "version": "1.0",
 "versionDate": "2025-11-11",
 "iconURL": "https://raw.githubusercontent.com/sosahaulic/sidestore-repo/main/Spotifymiku.jpg",
 "downloadURL": "https://github.com/sosahaulic/sidestore-repo/releases/download/v2.0/Spotvee.ipa",
-"localizedDescription": "Another modded Spotify build.",
+"localizedDescription": "A modded Spotify build.",
 "category": "Music",
 "size": 86400512
 }
 ]
 }
-
