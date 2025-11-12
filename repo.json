@@ -6,7 +6,7 @@
 "name": "Spotvee",
 "bundleIdentifier": "com.spotify.client",
 "developerName": "Eevee Modded",
-"version": "1.0",
+"version": "3.5.1",
 "versionDate": "2025-11-11",
 "iconURL": "https://raw.githubusercontent.com/sosahaulic/sidestore-repo/main/Spotifymiku.jpg",
 "downloadURL": "https://github.com/sosahaulic/sidestore-repo/releases/download/v2.0/Spotvee.ipa",
@@ -16,5 +16,6 @@
 }
 ]
 }
+
 
 
