@@ -4,7 +4,7 @@
 "apps": [
 {
 "name": "EeveeSpotify",
-"bundleIdentifier": "com.spotify.client",
+"bundleIdentifier": "com.sosahaulic.eeveespotify",
 "developerName": "Eevee Modded",
 "version": "8.6.42",
 "versionDate": "2025-11-11",
@@ -28,10 +28,4 @@
 }
 ]
 }
-
-
-
-
-
-
 
