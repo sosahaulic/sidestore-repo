@@ -1,18 +1,15 @@
 {
-"name": "Eevee Repo",
-"identifier": "com.yourname.eeveerepo",
+"name": "EeveeSpotify Repo",
+"identifier": "com.sosahaulic.eeveespotifyrepo",
 "apps": [
 {
-"name": "Eevee Spotify",
-"bundleIdentifier": "com.yourname.eeveespotify",
-"developerName": "Your Name",
+"name": "EeveeSpotify",
+"bundleIdentifier": "com.spotify.client",
+"developerName": "Eevee Modded",
 "version": "1.0",
-"versionDate": "2025-11-11",
-"versionDescription": "Modified Spotify build.",
-"downloadURL": "https://github.com/sosahaulic/sidestore-repo/releases/download/v.1.0/EeveeSpotify.1.ipa",
-"localizedDescription": "A custom version of Spotify.",
-"tintColor": "#1DB954"
+"downloadURL": "https://github.com/sosahaulic/eeveespotify-repo/releases/download/v1.0/EeveeSpotify.ipa",
+"localizedDescription": "A modded Spotify build.",
+"category": "Music"
 }
 ]
-
 }
