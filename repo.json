@@ -9,9 +9,10 @@
 "version": "1.0",
 "versionDate": "2025-11-11",
 "versionDescription": "Modified Spotify build.",
-"downloadURL": "https://sosahaulic.github.io/sidestore-repo/EeveeSpotify.ipa",
+"downloadURL": "https://github.com/sosahaulic/sidestore-repo/releases/download/v.1.0/EeveeSpotify.1.ipa",
 "localizedDescription": "A custom version of Spotify.",
 "tintColor": "#1DB954"
 }
 ]
+
 }
