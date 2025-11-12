@@ -1,6 +1,6 @@
 {
 "name": "EeveeSpotify Repo",
-"identifier": "com.sosahaulic.eeveespotifyrepo",
+"identifier": "com.sosahaulic.sidestore-repo",
 "apps": [
 {
 "name": "EeveeSpotify",
@@ -15,3 +15,4 @@
 }
 ]
 }
+
