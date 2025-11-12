@@ -1,1 +1,17 @@
-
+{
+"name": "Eevee Repo",
+"identifier": "com.yourname.eeveerepo",
+"apps": [
+{
+"name": "Eevee Spotify",
+"bundleIdentifier": "com.yourname.eeveespotify",
+"developerName": "Your Name",
+"version": "1.0",
+"versionDate": "2025-11-11",
+"versionDescription": "Modified Spotify build.",
+"downloadURL": "https://sosahaulic.github.io/sidestore-repo/EeveeSpotify.ipa",
+"localizedDescription": "A custom version of Spotify.",
+"tintColor": "#1DB954"
+}
+]
+}
