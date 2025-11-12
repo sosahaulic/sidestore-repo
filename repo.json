@@ -7,10 +7,11 @@
 "bundleIdentifier": "com.spotify.client",
 "developerName": "Eevee Modded",
 "version": "1.0",
-"iconURL": "",
+"iconURL": "https://github.com/sosahaulic/sidestore-repo/blob/main/Spotifymiku.jpg",
 "downloadURL": "https://github.com/sosahaulic/sidestore-repo/releases/download/v.1.0/EeveeSpotify.1.ipa",
 "localizedDescription": "A modded Spotify build.",
 "category": "Music"
 }
 ]
 }
+
