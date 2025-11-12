@@ -13,9 +13,22 @@
 "localizedDescription": "A modded Spotify build.",
 "category": "Music",
 "size": 56122880
+},
+{
+"name": "Spotvee",
+"bundleIdentifier": "com.sosahaulic.spotvee",
+"developerName": "Eevee Modded",
+"version": "1.0",
+"versionDate": "2025-11-11",
+"iconURL": "https://raw.githubusercontent.com/sosahaulic/sidestore-repo/main/Spotifymiku.jpg",
+"downloadURL": "https://github.com/sosahaulic/sidestore-repo/releases/download/v2.0/Spotvee.ipa",
+"localizedDescription": "Another modded Spotify build.",
+"category": "Music",
+"size": 86400512
 }
 ]
 }
+
 
 
 
