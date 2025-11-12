@@ -1,6 +1,6 @@
 {
 "name": "EeveeSpotify Repo",
-"identifier": "com.sosahaulic.sidestore-repo",
+"identifier": "com.sosahaulic.eeveespotifyrepo",
 "apps": [
 {
 "name": "EeveeSpotify",
@@ -11,7 +11,8 @@
 "iconURL": "https://raw.githubusercontent.com/sosahaulic/sidestore-repo/main/Spotifymiku.jpg",
 "downloadURL": "https://github.com/sosahaulic/sidestore-repo/releases/download/v1.0/EeveeSpotify.ipa",
 "localizedDescription": "A modded Spotify build.",
-"category": "Music"
+"category": "Music",
+"size": 55045248
 }
 ]
 }
